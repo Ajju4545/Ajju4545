@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ajay Khot</h1>
 
-<h3 align="center">🚀 Aspiring AI/ML Engineer | Full Stack Developer | Open Source Learner</h3>
+<h3 align="center">🚀 Aspiring AI/ML Engineer| Open Source Learner</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;AI+%7C+Machine+Learning+%7C+Deep+Learning;Generative+AI+%7C+Agentic+AI+%7C+RAG;Building+the+Future+with+Code+%F0%9F%9A%80;Always+Learning+Something+New+%F0%9F%92%A1"/>
@@ -87,7 +87,6 @@
 -Portfolio:https://ajay14-portfolio.vercel.app/
 
 ---
-
 💭 Quote
 
 «"The best way to predict the future is to build it."»
