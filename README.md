@@ -16,7 +16,6 @@
 
 - 🎓 Data Science Student
 - 🤖 Passionate about Artificial Intelligence & Machine Learning
-- 🌱 Currently learning ML, DL, Computer Vision, NLP, Generative AI, Agentic AI, RAG & MLOps
 - 💻 Building real-world AI projects
 - 🎯 Goal: Become an AI Engineer and contribute to impactful products
 - ⚡ Learning something new every day
@@ -58,27 +57,12 @@
 
 🚀 Featured Projects
 
-🔹 Expense bill splitter
+🔹 Mini Project-Expense bill splitter
 
 🔹 Machine Learning Projects
 
-🔹 Computer Vision Projects
-
 🔹 Full Stack Web Applications
 
-(Coming Soon...)
-
----
-
-🎯 2026 - 2027 Goals
-
-- ✅ Master Python
-- 🔄 Build 5+ AI Projects
-- 🔄 Learn MLOps
-- 🔄 Contribute to Open Source
-- 🔄 Secure an AI/ML Internship
-
----
 
 📫 Connect With Me
 
