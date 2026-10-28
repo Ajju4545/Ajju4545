@@ -55,6 +55,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajju4545&theme=tokyo-night"/>
 </p>---
 
+---
 🚀 Featured Projects
 
 🔹 Mini Project-Expense bill splitter
@@ -62,7 +63,7 @@
 🔹 Machine Learning Projects
 
 🔹 Full Stack Web Applications
-
+---
 
 📫 Connect With Me
 
