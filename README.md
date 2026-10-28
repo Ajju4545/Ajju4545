@@ -44,16 +44,37 @@
 
 ---
 
-📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ajju4545&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajju4545&layout=compact&theme=tokyonight&hide_border=true"/>
-</p><p align="center">
-<img src="https://streak-stats.demolab.com?user=Ajju4545&theme=tokyonight&hide_border=true"/>
-</p><p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajju4545&theme=tokyo-night"/>
-</p>---
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=Ajju4545&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajju4545&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most Used Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=Ajju4545&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Ajju4545&theme=tokyo-night"
+    alt="GitHub Activity Graph"
+    width="95%"
+  />
+</p>
+
+---
 
 ---
 🚀 Featured Projects
