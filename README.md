@@ -20,7 +20,7 @@
 - 🎯 Goal: Become an AI Engineer and contribute to impactful products
 - ⚡ Learning something new every day
 
----
+
 
 🛠 Tech Stack
 
@@ -67,7 +67,6 @@
 </p>
 
 
----
 
 ---
 🚀 Featured Projects
