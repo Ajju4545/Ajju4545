@@ -63,8 +63,8 @@
 🔹 Machine Learning Projects
 
 🔹 Full Stack Web Applications
----
 
+---
 📫 Connect With Me
 
 - 💼 LinkedIn:https://www.linkedin.com/in/ajay-khot-ds/
