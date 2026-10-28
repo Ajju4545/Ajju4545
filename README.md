@@ -66,13 +66,6 @@
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Ajju4545&theme=tokyo-night"
-    alt="GitHub Activity Graph"
-    width="95%"
-  />
-</p>
 
 ---
 
